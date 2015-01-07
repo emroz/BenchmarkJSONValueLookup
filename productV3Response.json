@@ -1,0 +1,529 @@
+{
+  "product_composite_response": {
+    "request_attributes": [
+      {
+        "name": "product_id",
+        "value": "14791711"
+      },
+      {
+        "name": "key",
+        "value": "T7qf2Y4luqqAedfLkPD6dRicCAG50eZo"
+      },
+      {
+        "name": "id_type",
+        "value": "TCIN"
+      },
+      {
+        "name": "store_id",
+        "value": "3991"
+      },
+      {
+        "name": "fields",
+        "value": "all_fields_group"
+      }
+    ],
+    "items": [
+      {
+        "relation": "SA",
+        "data_page_link": "http://www.target.com/p/brightspot-nokia-lumia-521-cell-phone-black/-/A-14791711",
+        "imn_identifier": 13212693,
+        "identifier": [
+          {
+            "id_type": "DPCI",
+            "id": "080-15-0005",
+            "is_primary": null,
+            "source": "Online and Store"
+          },
+          {
+            "id_type": "TCIN",
+            "id": "14791711",
+            "is_primary": null,
+            "source": "Online"
+          }
+        ],
+        "is_orderable": true,
+        "is_sellable": true,
+        "general_description": "BRIGHTSPOT NOKIA LUMIA 521",
+        "business_process_status": [
+          {
+            "process_status": {
+              "is_ready": false,
+              "operation_description": "assortment ready",
+              "operation_code": "PAAP"
+            }
+          },
+          {
+            "process_status": {
+              "is_ready": false,
+              "operation_description": "import ready",
+              "operation_code": "PIPT"
+            }
+          },
+          {
+            "process_status": {
+              "is_ready": true,
+              "operation_description": "order ready",
+              "operation_code": "PORD"
+            }
+          },
+          {
+            "process_status": {
+              "is_ready": false,
+              "operation_description": "presentation ready",
+              "operation_code": "PPRS"
+            }
+          },
+          {
+            "process_status": {
+              "is_ready": false,
+              "operation_description": "project ready",
+              "operation_code": "PCMT"
+            }
+          },
+          {
+            "process_status": {
+              "is_ready": true,
+              "operation_description": "replenishment ready",
+              "operation_code": "PRPL"
+            }
+          },
+          {
+            "process_status": {
+              "is_ready": false,
+              "operation_description": "scale ready",
+              "operation_code": "PSCL"
+            }
+          },
+          {
+            "process_status": {
+              "is_ready": false,
+              "operation_description": "target.com ready",
+              "operation_code": "PTGT"
+            }
+          }
+        ],
+        "dpci": "080-15-0005",
+        "department_id": 80,
+        "class_id": 15,
+        "item_id": 5,
+        "store_product": [
+          {
+            "location_data": {
+              "location_id": 3991,
+              "status_code": "A",
+              "status_update_date": "2013-08-15T05:00:00Z",
+              "expected_inventory_outage": null,
+              "is_product_recalled_for_store": false,
+              "is_pos_weight_required": false,
+              "tare_weight_code": "",
+              "location_vendor": [
+                {
+                  "vendor_id": "1119916",
+                  "vendor_name": null,
+                  "return_instructions": {
+                    "id": "702329740",
+                    "is_primary_return_instruction_set": true
+                  }
+                }
+              ]
+            },
+            "price": {
+              "current_price_type_code": "",
+              "current_price": null,
+              "original_price": 99.99,
+              "display_original_price": "99.99"
+            },
+            "tax_classification_code": "G",
+            "selling_constraint": [
+              {
+                "compliance_program_code": "UPRUOM",
+                "value": "EACH"
+              }
+            ]
+          }
+        ],
+        "store_product_type_hierarchy": {
+          "node": {
+            "id": "05",
+            "description": "ELECTRONICS",
+            "type_code": "PROD_TYPE",
+            "node": {
+              "id": "00B",
+              "description": "CELL PHONES AND TELEPHONES",
+              "type_code": "PROD_STYPE",
+              "node": {
+                "id": "0001",
+                "description": "Cellular Phones",
+                "type_code": "MDSE_TYPE",
+                "node": {
+                  "id": "0017",
+                  "description": "Cell Phone",
+                  "type_code": "ITEM_TYPE"
+                }
+              }
+            }
+          }
+        },
+        "store_merch_hierarchy": {
+          "node": {
+            "id": "3",
+            "description": "HARDLINES",
+            "type_code": "GROUP",
+            "node": {
+              "id": "12",
+              "description": "ELECTRONICS",
+              "type_code": "SUBGROUP",
+              "node": {
+                "id": "21",
+                "description": "ELECTRONICS",
+                "type_code": "DIVISION",
+                "node": {
+                  "id": "80",
+                  "description": "NO-CONTRACT MOBILE/ACCESSORIES",
+                  "type_code": "DEPARTMENT",
+                  "node": {
+                    "id": "15",
+                    "description": "SCAN BASED TRADE CELL HANDSETS",
+                    "type_code": "CLASS",
+                    "node": {
+                      "id": "1",
+                      "description": "BRIGHTSPOT",
+                      "type_code": "SUBCLASS",
+                      "node": {
+                        "id": "AAY78",
+                        "description": "T MOBILE",
+                        "type_code": "STYLE"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "online_product_type_hierarchy": [
+          {
+            "id": "100",
+            "description": "Target",
+            "type_code": "0",
+            "node": {
+              "id": "23013",
+              "description": "back to college",
+              "type_code": "1",
+              "node": {
+                "id": "650501",
+                "description": "college electronics",
+                "type_code": "2"
+              }
+            }
+          },
+          {
+            "id": "100",
+            "description": "Target",
+            "type_code": "0",
+            "node": {
+              "id": "754007",
+              "description": "Featured Brands",
+              "type_code": "1",
+              "node": {
+                "id": "576001",
+                "description": "mobile",
+                "type_code": "2",
+                "node": {
+                  "id": "542501",
+                  "description": "T-Mobile",
+                  "type_code": "3"
+                }
+              }
+            }
+          },
+          {
+            "id": "100",
+            "description": "Target",
+            "type_code": "0",
+            "node": {
+              "id": "754007",
+              "description": "Featured Brands",
+              "type_code": "1",
+              "node": {
+                "id": "576001",
+                "description": "mobile",
+                "type_code": "2",
+                "node": {
+                  "id": "780501",
+                  "description": "Brightspot",
+                  "type_code": "3"
+                }
+              }
+            }
+          },
+          {
+            "id": "100",
+            "description": "Target",
+            "type_code": "0",
+            "node": {
+              "id": "4476",
+              "description": "electronics",
+              "type_code": "1",
+              "node": {
+                "id": "4578",
+                "description": "cell phones",
+                "type_code": "2",
+                "node": {
+                  "id": "4582",
+                  "description": "prepaid cell phones",
+                  "type_code": "3"
+                }
+              }
+            }
+          }
+        ],
+        "webclass_hierarchy": {
+          "id": "351",
+          "description": "Mobile",
+          "type_code": "webclass",
+          "node": {
+            "id": "3",
+            "description": "3",
+            "type_code": "web subclass"
+          }
+        },
+        "classification_hierarchy": [
+          {
+            "type_code": "prod",
+            "node": {
+              "id": "05",
+              "description": "ELECTRONICS",
+              "status_code": "ACTV",
+              "node": {
+                "id": "00B",
+                "description": "CELL PHONES AND TELEPHONES",
+                "status_code": "ACTV",
+                "node": {
+                  "id": "0001",
+                  "description": "Cellular Phones",
+                  "status_code": "ACTV",
+                  "node": {
+                    "id": "0017",
+                    "description": "Cell Phone",
+                    "status_code": "ACTV"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type_code": "merch",
+            "node": {
+              "id": "3",
+              "description": "HARDLINES",
+              "node": {
+                "id": "12",
+                "description": "ELECTRONICS",
+                "node": {
+                  "id": "21",
+                  "description": "ELECTRONICS",
+                  "node": {
+                    "id": "80",
+                    "description": "NO-CONTRACT MOBILE/ACCESSORIES",
+                    "status_code": "ACTV",
+                    "node": {
+                      "id": "15",
+                      "description": "SCAN BASED TRADE CELL HANDSETS",
+                      "status_code": "ACTV",
+                      "node": {
+                        "id": "1",
+                        "description": "BRIGHTSPOT",
+                        "status_code": "ACTV",
+                        "node": {
+                          "id": "AAY78",
+                          "description": "T MOBILE",
+                          "status_code": "ACTV"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type_code": "gpc",
+            "node": {
+              "id": "236",
+              "description": "Communications",
+              "node": {
+                "id": "244",
+                "description": "Communications",
+                "node": {
+                  "id": "1159",
+                  "description": "Mobile Communication Devices/Services",
+                  "node": {
+                    "id": "6252",
+                    "description": "Mobile Phones/Smartphones"
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "reference_data": {
+          "brand": [
+            {
+              "id": 31404,
+              "brand_name": "Brightspot",
+              "use_code": "BRND",
+              "group_code": "OWND",
+              "is_royalty_applicable": false,
+              "abbreviation": "BrgtSp"
+            }
+          ],
+          "manufacturer_brand": "Nokia"
+        },
+        "online_brand_name": "Nokia",
+        "location_id": "3991",
+        "is_sold_in_specific_store": true,
+        "alternate_identifier": [
+          {
+            "id": "490801500050",
+            "id_type": "SY12",
+            "is_primary": false,
+            "type_description": "SYSTEM GENERATED (12 DIGITS)",
+            "category_code": "BRCD",
+            "vendor_barcode": [
+              {
+                "vendor_id": 1119916,
+                "is_primary_barcode": true
+              }
+            ],
+            "related_id": []
+          },
+          {
+            "id": "610214633132",
+            "id_type": "ML12",
+            "is_primary": false,
+            "type_description": "MFG LONG FORM (12 DIGITS)",
+            "category_code": "BRCD",
+            "vendor_barcode": [
+              {
+                "vendor_id": 1309894,
+                "is_primary_barcode": true
+              }
+            ],
+            "related_id": []
+          },
+          {
+            "id": "610214633132",
+            "id_type": "UPC",
+            "is_primary": true
+          }
+        ],
+        "online_description": {
+          "value": "brightspot Nokia Lumia 521 Cell Phone - Black",
+          "type": "GENL"
+        },
+        "store_description": {
+          "value": "BRIGHTSPOT NOKIA LUMIA 521",
+          "type": "GENL"
+        },
+        "alternate_description": [
+          {
+            "type": "ADSG",
+            "value": "brightspot Nokia Lumia",
+            "type_description": "Ad Signage Description"
+          },
+          {
+            "type": "SELP",
+            "value": "<*4\" touchscreen  <*4G capable  <*Windows Phone 8  <*5 megapixel camera  <*Start screen + live tiles  <*1 GHz processor  <*Wi-Fi & mobile calling  <*GPS with navigation capability",
+            "type_description": "Selling points Description"
+          },
+          {
+            "type": "POS",
+            "value": "BRIGHTSPOT",
+            "type_description": "POS Desc"
+          },
+          {
+            "type": "GENL",
+            "value": "BRIGHTSPOT NOKIA LUMIA 521",
+            "type_description": "General Desc"
+          },
+          {
+            "type": "VEND",
+            "value": "Lumia 521",
+            "type_description": "Vendor Description"
+          },
+          {
+            "type": "SHLF",
+            "value": "NOKIA LUMIA 521",
+            "type_description": "Shelf Desc"
+          },
+          {
+            "type": "DETL",
+            "value": "Premium Nokia windows phone 8 smartphone at an affordable price. Impressive features at a great value. The Nokia Lumia 521 combines ultra-modern design and the Windows 8 platform to allow you to connect and do more. With its 5MP camera and special built in digital lenses you can take and create amazing pictures to share with your family and friends.",
+            "type_description": "Online Detailed Description"
+          }
+        ],
+        "online_price": {
+          "current_price": "49.99",
+          "original_price": "49.99",
+          "map_price": null,
+          "list_price": "49.99",
+          "price_code": 0
+        },
+        "is_store_only_product_price_display": true,
+        "store_price": {
+          "current_price": null,
+          "original_price": "99.99",
+          "map_price": null,
+          "price_code": null
+        },
+        "online_availability": {
+          "item_status": "Active",
+          "availability_status": "Online",
+          "availability_code": "0",
+          "available_quantity": null,
+          "channel_availability_status": "Sold Online + in Stores",
+          "channel_availability_code": 0,
+          "street_date": "2013-10-06T05:00:00Z",
+          "launch_date": "2013-10-06T05:00:00Z"
+        },
+        "image": {
+          "internal_primary_image_url": ["http://scene7.targetimg1.com/is/image/Target/14791711?wid=410&hei=410"],
+          "internal_alt_image_url": [
+            "http://scene7.targetimg1.com/is/image/Target/14791711_Alt02?wid=410&hei=410",
+            "http://scene7.targetimg1.com/is/image/Target/14791711_Alt03?wid=410&hei=410",
+            "http://scene7.targetimg1.com/is/image/Target/14791711_Alt01?wid=410&hei=410"
+          ],
+          "internal_thumbnail_image_url": null,
+          "internal_swatch_image_url": ["http://scene7.targetimg1.com/is/image/Target?layer=0&size=40,40&layer=1&src=14791711"],
+          "external_primary_image_url": ["http://scene7.targetimg1.com/is/image/Target/14791711?wid=410&hei=410"],
+          "external_alt_image_url": [
+            "http://scene7.targetimg1.com/is/image/Target/14791711_Alt02?wid=410&hei=410",
+            "http://scene7.targetimg1.com/is/image/Target/14791711_Alt03?wid=410&hei=410",
+            "http://scene7.targetimg1.com/is/image/Target/14791711_Alt01?wid=410&hei=410"
+          ]
+        },
+        "online_variations": [
+          {
+            "id": "14791711",
+            "id_type": "TCIN",
+            "variations": [
+              {
+                "key": "color",
+                "value": "White"
+              },
+              {
+                "key": "image",
+                "value": ["http://scene7.targetimg1.com/is/image/Target?layer=0&size=40,40&layer=1&src=14791711"]
+              }
+            ]
+          }
+        ],
+        "review": {
+          "consolidated_overall_rating": "4",
+          "total_reviews": "12"
+        }
+      }
+    ]
+  }
+}

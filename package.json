@@ -1,0 +1,25 @@
+{
+  "name": "BenchmarkJSONValueLookup",
+  "version": "1.0.0",
+  "description": "Benchmark JSONPath, JSPath, and Json-query library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emroz/BenchmarkJSONValueLookup.git"
+  },
+  "author": "Emroz Habib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emroz/BenchmarkJSONValueLookup/issues"
+  },
+  "homepage": "https://github.com/emroz/BenchmarkJSONValueLookup",
+  "dependencies": {
+    "JSONPath": "^0.10.0",
+    "json-query": "^1.4.0",
+    "jspath": "^0.2.14",
+    "winston": "^0.8.3"
+  }
+}
